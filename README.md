@@ -4,6 +4,8 @@
 
 **Practice** in deep learning involves hands-on implementation of neural network models and experiments. This typically includes:
 * Link https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=DdpoKddBU67kwCX_
+
+  
 * **Coding neural networks:** Building models from scratch or using deep learning frameworks like TensorFlow or PyTorch.
 * **Data preprocessing:** Cleaning, transforming, and preparing data for model training.
 * **Model training:** Experimenting with different architectures, hyperparameters, and optimization techniques.
